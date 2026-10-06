@@ -2,14 +2,13 @@
 
 > **Read-only archive of released versions of ernestdefoe/opensearch.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/opensearch) or the [upstream repository](https://github.com/ernestdefoe/opensearch).
 
-**2** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/ernestdefoe-opensearch/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^2.0`
+**0** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/ernestdefoe-opensearch/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `v1.0.0` | 2026-08-29 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-opensearch/tree/archive/v1.0.0) |
-| `v1.0.1` | 2026-10-05 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-opensearch/tree/archive/v1.0.1) |
+| — | — | — | — |
 
 Catalog entry: [packages/ernestdefoe-opensearch.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-opensearch.json)
 
